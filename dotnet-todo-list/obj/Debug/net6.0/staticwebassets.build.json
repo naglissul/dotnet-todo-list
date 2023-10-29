@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EBT4qju1ZYioGiSqHhAsWJsyknEzvimPoZI3MBPuTzs=",
+  "Source": "dotnet-todo-list",
+  "BasePath": "_content/dotnet-todo-list",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
